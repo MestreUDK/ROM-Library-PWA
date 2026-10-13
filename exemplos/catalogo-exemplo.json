@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "generator": "ROM Catalog Studio 0.1.0",
+  "exported_at": "2026-10-10T00:00:00.000Z",
+  "games": [
+    {
+      "id": "exemplo-gba-001",
+      "type": "rom",
+      "title": "Advance Wars",
+      "platform": "gba",
+      "file_name": "Advance Wars (USA).gba",
+      "region": "USA",
+      "languages": ["Inglês"],
+      "genre": "Estratégia",
+      "year": 2001,
+      "size_mb": 16,
+      "format": "gba",
+      "cover_url": "https://thumbnails.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Named_Boxarts/Advance%20Wars%20%28USA%29.png",
+      "telegram_url": "https://t.me/ExemploDeCanal/123",
+      "notes": "EXEMPLO FICTÍCIO. Substitua o link pela mensagem real no Telegram.",
+      "created_at": "2026-10-10T00:00:00.000Z",
+      "updated_at": "2026-10-10T00:00:00.000Z"
+    }
+  ]
+}
